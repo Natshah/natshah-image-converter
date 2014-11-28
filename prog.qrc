@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="images" prefix="/Images">
+        <file>bin/images/myicon.ico</file>
+        <file>bin/images/icon.gif</file>
+        <file>bin/images/logo.png</file>
+    </qresource>
+</RCC>
